@@ -1,7 +1,7 @@
-# Natural-gradient-based Independent-Vector-Analysis (IVA) for convolutive mixtures in blind source separation problems written in Python
+# Natural-gradient-based Independent-Vector-Analysis (IVA) 
+## for convolutive mixtures in blind source separation problems written in Python
 
-"""  Fast algorithm for Frecuency Domain Blind source separation
-            based on Independent Vector Analysis
+###  Fast algorithm for Frecuency Domain Blind source separation based on Independent Vector Analysis
         Parameters
         --------------------------------------------
         X : array containing mixtures, shape (# of mixture, # of samples) 
